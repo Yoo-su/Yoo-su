@@ -2,7 +2,7 @@
   <img
     src="https://render.gitanimals.org/lines/Yoo-su?pet-id=888664424766428747"
     width="1000"
-    height="120"
+    height="180"
   />
 </a>
   
